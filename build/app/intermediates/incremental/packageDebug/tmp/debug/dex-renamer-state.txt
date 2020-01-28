@@ -1,0 +1,4 @@
+#Fri Jan 17 16:58:40 IST 2020
+base.0=D\:\\Flutter Bootcamp\\weather\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
